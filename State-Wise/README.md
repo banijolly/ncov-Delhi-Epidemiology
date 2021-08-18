@@ -2,12 +2,12 @@ Daily cases and tests data for different states and union territiories (UTs) ana
 
 Data files for the different states and UTs are named using Alpha-2 ISO codes:
 
-##Punjab: 		      PB
-##Haryana: 		      HR
-##Uttar Pradesh: 	  UP
-##Chandigarh: 		  CH
-##Jammu & Kashmir: 	JK
-##Himachal Pradesh: HP
-##Madhya Pradesh:	  MP
-##Uttarakhand: 		  UK
-##Ladakh: 	      	LA
+##Punjab:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PB<br>
+##Haryana:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HR<br>
+##Uttar Pradesh:&nbsp;&nbsp;&nbsp;&nbsp;UP<br>
+##Chandigarh:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CH<br>
+##Jammu & Kashmir:&nbsp;&nbsp;JK<br>
+##Himachal Pradesh:&nbsp;HP<br>
+##Madhya Pradesh:&nbsp;&nbsp;&nbsp;MP<br>
+##Uttarakhand:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UK<br>
+##Ladakh:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LA<br>

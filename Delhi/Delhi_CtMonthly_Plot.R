@@ -5,8 +5,8 @@ library(scales)
 library(reshape2)
 
 
-#Read Month-wise Ct values data for ORF1a (Target 1)
-ct_df=read.csv("CT/DL_CT",sep="\t",header=T)
+## Read Month-wise Ct values data for ORF1a (Target 1)
+ct_df=read.csv("CT/DL_CT_ORF1a",sep="\t",header=T)
 ct_df$Month=factor(ct_df$Month, levels=c("Jul 20","Aug 20","Sep 20","Oct 20","Nov 20","Dec 20","Jan 21","Feb 21","Mar 21","Apr 21","May 21","Jun 21"))
 
 
